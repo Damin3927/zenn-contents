@@ -3,7 +3,7 @@ title: "SolanaのEscrow実装でつまずいた人へ送る有意義な情報"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Solana", "Anchor"]
-published: false
+published: true
 ---
 
 ## TL;DR
