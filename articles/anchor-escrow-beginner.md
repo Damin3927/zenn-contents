@@ -15,7 +15,7 @@ published: false
 
 1. 一部書き方が古いところなどあったので，全て現行の Anchor のバージョン（0.24.2）の書き方に直した
 1. モジュール分割をした
-1. できるだけたくさんのコメントを書き加え，「？」なコードがないようにした
+1. テストにできるだけたくさんのコメントを書き加え，「？」なコードがないようにした
 
 という改造を加えているので，とてもわかりやすくなっているかと思います．
 
@@ -88,7 +88,7 @@ published: false
 
 @[card](https://github.com/Damin3927/escrow-anchor)
 
-[この実装](https://github.com/ironaddicteddog/anchor-escrow)と[その解説記事](https://hackmd.io/@ironaddicteddog/anchor_example_escrow)を参考にしたのですが，書き方が少し古いのと，モジュール分割がされていないなどの理由から新しく実装をしました．加えて，たくさんのコメントを付け加えたため，わかりやすくはなっているかと思います．
+[この実装](https://github.com/ironaddicteddog/anchor-escrow)と[その解説記事](https://hackmd.io/@ironaddicteddog/anchor_example_escrow)を参考にしたのですが，書き方が少し古いのと，モジュール分割がされていないなどの理由から新しく実装をしました．加えて，テストにたくさんのコメントを付け加えることで流れを明確にしたため，わかりやすくはなっているかと思います．
 
 ## Conclusion
 
